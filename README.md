@@ -42,6 +42,6 @@ Welcome to my little corner of GitHub! 🌸✨ I'm Ahmad, a passionate front-end
   </a>
 </p>
 
-<p align="center">   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WhereDidMyDivGo" alt="WhereDidMyDivGo's GitHub Contribution"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=WhereDidMyDivGo" alt="WhereDidMyDivGo's GitHub Contribution"/>
 </p>
