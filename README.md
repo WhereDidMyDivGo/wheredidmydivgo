@@ -17,7 +17,7 @@ Welcome to my little corner of GitHub! 🌸✨ I'm Ahmad, a passionate front-end
 ![Profile Views](https://komarev.com/ghpvc/?username=WhereDidMyDivGo&color=ff69b4&style=flat-square)
 
 📜 **Latest Repositories:**  
-[![GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=WhereDidMyDivGo&repo=v-day&theme=jolly)](https://github.com/WhereDidMyDivGo/v-day)
+[![GitHub Repo](https://github-readme-stats.vercel.app/api/pin/?username=WhereDidMyDivGo&repo=v-day&theme=jolly&cache_seconds=1800)](https://github.com/WhereDidMyDivGo/v-day)
 
 <p align="center">   
   <video src="https://youtu.be/mqCLaWupsTU" controls></video>
