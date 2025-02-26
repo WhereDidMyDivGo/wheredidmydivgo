@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8000FF&height=90&section=header"/>
 
-### Hey there! 🐱💖
+<span style="font-size: 32px; font-weight: bold;">Hey there! 🐱💖</span>
 
 Welcome to my little corner of GitHub! 🌸✨ I'm Ahmad, a front-end mad scientist who turns caffeine into (mostly) working interfaces.
 <br />
