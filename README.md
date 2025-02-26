@@ -1,7 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8000FF&height=90&section=header"/>
-### Hey there! 🐱💖  
 
-Welcome to my little corner of GitHub! 🌸✨ I'm Ahmad, a front-end mad scientist who turns caffeine into (mostly) working interfaces.
+<p align="center">
+  <img src="https://img.shields.io/badge/Hey%20there!-purple?style=for-the-badge&logo=starship" height="50">
+</p>
+
+<h3>Welcome to my little corner of GitHub! 🌸✨ I'm Ahmad, a front-end mad scientist who turns caffeine into (mostly) working interfaces.</h3>
 <br />
 
 **<h1 align="center">💻 What I mess with</h1>**
