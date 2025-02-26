@@ -13,8 +13,13 @@ Welcome to my little corner of GitHub! 🌸✨ I'm Ahmad, a passionate front-end
 - Electronic music 🎵
 - Cats. Lots of cats. 🐾
 
-📊 **GitHub Streak:**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight)
+<p align="center">   
+  <video src="https://youtu.be/mqCLaWupsTU" controls></video>
+</p>
+
+<p align="center">   
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WhereDidMyDivGo" alt="WhereDidMyDivGo's GitHub Contribution"/>
+</p>
 
 📫 **Let's connect!**
 Feel free to check out my repos, and if you wanna chat, hit me up!
