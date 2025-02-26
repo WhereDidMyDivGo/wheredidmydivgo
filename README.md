@@ -35,3 +35,13 @@ Welcome to my little corner of GitHub! 🌸✨ I'm Ahmad, a passionate front-end
 <p align="center">   
   <img src="https://github-readme-stats.vercel.app/api?username=WhereDidMyDivGo&show_icons=true&theme=jolly" alt="WhereDidMyDivGo's GitHub Stats"/>
 </p>
+
+<p align="center">   
+  <a href="https://github.com/WhereDidMyDivGo"> 
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WhereDidMyDivGo&theme=radical" alt="WhereDidMyDivGo's GitHub Contribution"/>     
+  </a>
+</p>
+
+<p align="center">   
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WhereDidMyDivGo" alt="WhereDidMyDivGo's GitHub Contribution"/>
+</p>
