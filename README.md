@@ -20,8 +20,8 @@ Feel free to check out my repos, and if you wanna chat, hit me up!
 
 ![Cute Pixel Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
-<p align="center">   
-  <img src="https://github-readme-stats.vercel.app/api?username=WhereDidMyDivGo&show_icons=true&theme=dark" alt="WhereDidMyDivGo's GitHub Stats"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WhereDidMyDivGo&show_icons=true&theme=jolly" alt="WhereDidMyDivGo's GitHub Stats"/>
 </p>
 
 
