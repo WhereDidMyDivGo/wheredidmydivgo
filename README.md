@@ -28,7 +28,7 @@
   <a href="https://github.com/WhereDidMyDivGo/v-day">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=WhereDidMyDivGo&repo=v-day&theme=jolly&cache_seconds=1800" alt="GitHub Repo"/>
   </a>
-  <a href="https://github.com/WhereDidMyDivGo/interactive-rating-component">>
+  <a href="https://github.com/WhereDidMyDivGo/interactive-rating-component">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=WhereDidMyDivGo&repo=interactive-rating-component&theme=jolly&cache_seconds=1800" alt="GitHub Repo"/>
   </a>
 </p>
