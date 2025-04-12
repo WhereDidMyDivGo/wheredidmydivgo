@@ -16,7 +16,7 @@
 
 **<h1 align="center">🎮🎭 Things That Keep Me Distracted</h1>**
 
-- Game development 🎮
+- Web development 💻
 - Cyberpunk aesthetics 🌆
 - Electronic music 🎵
 - Cats. Lots of cats. 🐾
