@@ -1,4 +1,3 @@
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8000FF&height=90&section=header" width="100%" />
 
 <p align="center">
@@ -43,7 +42,7 @@
 - Inspired by Cyberpunk Edgerunners.
 ### Electronic music 🎵
 - Deep in synthwave, techno, and house. 
-- Beats that keep me coding all night.
+- Beats keep me coding all night.
 ### Cats. Lots of cats. 🐾
 - Every project gets cat-tested (aka walked on mid code).
 - If you hear me screaming, a cat prob deleted half my file.
@@ -82,5 +81,4 @@ _“write enough bad code and u eventually become a genius by accident” – so
 
 ![Profile Views](https://komarev.com/ghpvc/?username=WhereDidMyDivGo&color=ff69b4&style=flat-square)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8000FF&height=90&section=footer" width="100%" />
-<img src="https://miro.medium.com/v2/resize:fit:5000/1*3xjUHruhwpEK2vdNPmhJZA.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8000FF&height=90&section=footer" width="100%" /><img src="https://miro.medium.com/v2/resize:fit:5000/1*3xjUHruhwpEK2vdNPmhJZA.gif" width="100%" />
