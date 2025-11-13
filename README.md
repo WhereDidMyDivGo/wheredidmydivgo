@@ -51,11 +51,14 @@
 
 **<h1 align="center">📜 My latest attempts at not breaking things</h1>**
 <p align="center">
-  <a href="https://github.com/WhereDidMyDivGo/v-day">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WhereDidMyDivGo&repo=v-day&theme=jolly&cache_seconds=1800" alt="GitHub Repo"/>
+  <a href="https://github.com/WhereDidMyDivGo/brew-haven">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WhereDidMyDivGo&repo=brew-haven&theme=jolly&cache_seconds=1800" alt="GitHub Repo"/>
   </a>
   <a href="https://github.com/WhereDidMyDivGo/rock-paper-scissors">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=WhereDidMyDivGo&repo=rock-paper-scissors&theme=jolly&cache_seconds=1800" alt="GitHub Repo"/>
+  </a>
+  <a href="[https://github.com/WhereDidMyDivGo/rock-paper-scissors](https://github.com/WhereDidMyDivGo/codebreaker-game)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WhereDidMyDivGo&repo=codebreaker-game&theme=jolly&cache_seconds=1800" alt="GitHub Repo"/>
   </a>
 </p>
 <br />
