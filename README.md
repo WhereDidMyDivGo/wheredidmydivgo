@@ -50,17 +50,32 @@
 <br />
 
 **<h1 align="center">📜 My latest attempts at not breaking things</h1>**
-<p align="center">
-  <a href="https://github.com/WhereDidMyDivGo/brew-haven">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WhereDidMyDivGo&repo=brew-haven&theme=jolly&cache_seconds=1800" alt="GitHub Repo"/>
-  </a>
-  <a href="https://github.com/WhereDidMyDivGo/rock-paper-scissors">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WhereDidMyDivGo&repo=rock-paper-scissors&theme=jolly&cache_seconds=1800" alt="GitHub Repo"/>
-  </a>
-  <a href="[https://github.com/WhereDidMyDivGo/rock-paper-scissors](https://github.com/WhereDidMyDivGo/codebreaker-game)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WhereDidMyDivGo&repo=codebreaker-game&theme=jolly&cache_seconds=1800" alt="GitHub Repo"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/WhereDidMyDivGo/brew-haven">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WhereDidMyDivGo&repo=brew-haven&theme=jolly&cache_seconds=1800"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/WhereDidMyDivGo/redberry-task">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WhereDidMyDivGo&repo=redberry-task&theme=jolly&cache_seconds=1800"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/WhereDidMyDivGo/rock-paper-scissors">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WhereDidMyDivGo&repo=rock-paper-scissors&theme=jolly&cache_seconds=1800"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/WhereDidMyDivGo/codebreaker-game">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WhereDidMyDivGo&repo=codebreaker-game&theme=jolly&cache_seconds=1800"/>
+      </a>
+    </td>
+  </tr>
+</table>
 <br />
 
 **<h1 align="center">📊 Proof I code</h1>**
