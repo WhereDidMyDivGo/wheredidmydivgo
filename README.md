@@ -24,20 +24,22 @@
 
 **<h1 align="center">💻🎭 skills & interests</h1>**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/styledcomponents/DB7093" alt="styled-components" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
+<img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
+<img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+<img src="https://skillicons.dev/icons?i=react" alt="React" />
+<img src="https://skillicons.dev/icons?i=sass" alt="Sass" />
+<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=styledcomponents" alt="styled-components" />
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
 </p>
 
 ### Web development 💻
 - Despite all the jokes, I actually don't mess things up for the final result.
 - I like making designs pixel perfect, obsessed with every detail, can't tolerate anything less.
-- I hate react.
 ### Cyberpunk aesthetics 🌆
 - Love that neon, dystopian vibe.
 - Inspired by Cyberpunk Edgerunners.
@@ -54,28 +56,29 @@
   <tr>
     <td align="center">
       <a href="https://github.com/WhereDidMyDivGo/brew-haven">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WhereDidMyDivGo&repo=brew-haven&theme=jolly&cache_seconds=1800"/>
+        <img src="https://opengraph.githubassets.com/1/WhereDidMyDivGo/brew-haven" width="395" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/WhereDidMyDivGo/redberry-task">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WhereDidMyDivGo&repo=redberry-task&theme=jolly&cache_seconds=1800"/>
+        <img src="https://opengraph.githubassets.com/1/WhereDidMyDivGo/redberry-task" width="395" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/WhereDidMyDivGo/rock-paper-scissors">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WhereDidMyDivGo&repo=rock-paper-scissors&theme=jolly&cache_seconds=1800"/>
+        <img src="https://opengraph.githubassets.com/1/WhereDidMyDivGo/rock-paper-scissors" width="395" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/WhereDidMyDivGo/codebreaker-game">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WhereDidMyDivGo&repo=codebreaker-game&theme=jolly&cache_seconds=1800"/>
+        <img src="https://opengraph.githubassets.com/1/WhereDidMyDivGo/codebreaker-game" width="395" />
       </a>
     </td>
   </tr>
 </table>
+
 <br />
 
 **<h1 align="center">📊 Proof I code</h1>**
@@ -87,12 +90,6 @@
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wheredidmydivgo&theme=dark" alt="WhereDidMyDivGo's Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WhereDidMyDivGo&show_icons=true&theme=jolly" alt="WhereDidMyDivGo's GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhereDidMyDivGo&layout=compact&theme=radical" alt="WhereDidMyDivGo's Top Languages" />
 </p>
 <br />
 
